@@ -1,0 +1,7 @@
+A;B;C;D
+String;10;10.5;Target
+String;11;12.5;Target
+String;12;10.5;Target
+; ;11.99;Target
+String; ;11.99;Target
+String;10;0;Target
